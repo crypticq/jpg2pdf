@@ -1,4 +1,4 @@
-from fpdf import FPDF
+from fpdf import FPDF # --> pip3 install
 from os import listdir
 import time
 import random
